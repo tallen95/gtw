@@ -1,2 +1,2 @@
 # gtw
-Guess the word game
+Guess the word game in python.
