@@ -68,10 +68,6 @@ while replay == True:
                      incCount = incCount+1
                      break
             
-                
-                
-            
-        
         #prints current guessed word
         print("".join(map(str,(correct_letters))))
         print(" ")
